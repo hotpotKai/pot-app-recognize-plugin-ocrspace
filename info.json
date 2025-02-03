@@ -3,7 +3,7 @@
   "plugin_type": "recognize",
   "icon": "icon.png",
   "display": "OCR Space",
-  "homepage": "https://github.com/pot-app/pot-app-recognize-plugin-template",
+  "homepage": "https://github.com/hotpotKai/pot-app-recognize-plugin-ocrspace",
   "needs": [
     {
       "key": "engine",
